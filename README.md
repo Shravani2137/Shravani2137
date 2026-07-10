@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  Hi 👋, I'm Shravani Raut<br><br>🎓 BE Information Technology Student  <br>💻 Passionate Full Stack Developer  <br>🌱 Exploring Web Development, AI/ML & Cloud Technologies  <br><br>I love building creative and impactful projects with clean UI and real-world solutions.  <br>Always learning, experimenting, and turning ideas into code ✨<br><br>🛠️ Tech: React | JavaScript | Python | Java | Firebase | MySQL | Git
 
 
